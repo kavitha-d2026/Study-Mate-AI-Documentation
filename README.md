@@ -110,8 +110,7 @@ Student Study Notes
 ![Study Notes](Study%20Notes.png)
 
 My Tasks
-
-"My Tasks" (My%20Tasks%20.png)
+![My Tasks](My%20Tasks.png)
 
 Attend Quiz
 
