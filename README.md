@@ -96,8 +96,7 @@ Admin Quiz Results
 ![Admin Quiz Results](Quiz%20Results%20Admin.png)
 
 Tasks Assignment
-
-"Tasks Assignment" (Tasks%20Assignment.png)
+![Tasks Assignment](Tasks%20Assignment.png)
 
 AI Study Assistant
 
