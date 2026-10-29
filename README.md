@@ -100,7 +100,7 @@ Tasks Assignment
 
 AI Study Assistant
 
-"AI Study Assistant" (AI%20Study%20Assistant.png)
+![AI Study Assistant](AI%20Study%20Assistant.png)
 
 My Subjects
 
