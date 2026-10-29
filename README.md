@@ -114,7 +114,7 @@ My Tasks
 
 Attend Quiz
 
-"Attend Quiz" (Attend%20Quiz.png)
+![Attend Quiz](Attend%20Quiz.png)
 
 My Quiz Results
 
