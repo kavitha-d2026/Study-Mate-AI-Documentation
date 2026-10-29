@@ -56,6 +56,7 @@ The project uses MySQL to store application data, including students, subjects, 
 Conclusion
 
 Study Mate AI is designed to make student learning activities easier through a simple desktop interface. It combines Java Swing and MySQL to provide learning management features in one application.
+
 Project Screenshots
 
 Splash Screen
