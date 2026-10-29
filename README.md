@@ -86,8 +86,7 @@ Student Management
 ![Student Management](Student%20Management.png)
 
 Subject Management
-
-"Subject Management" (Subject%20Management.png)
+![Subject Management](Subject%20Management.png)
 
 Admin Study Notes
 
