@@ -64,6 +64,69 @@ Splash Screen
 ![Splash Screen](StudyMateAI_Screenshots.png)
 
 
+Choose Your Login
+
+"Choose Your Login" (Choose%20Your%20Login.png)
+
+Admin Login
+
+"Admin Login" (Admin%20Login.png)
+
+Student Login
+
+"Student Login" (Student%20Login.png)
+
+Admin Dashboard
+
+"Admin Dashboard" (Admin%20Dashboard.png)
+
+Student Dashboard
+
+"Student Dashboard" (Student%20Dashboard.png)
+
+Student Management
+
+"Student Management" (Student%20Management.png)
+
+Subject Management
+
+"Subject Management" (Subject%20Management.png)
+
+Admin Study Notes
+
+"Admin Study Notes" (Study%20Notes%20Admin.png)
+
+Admin Quiz Results
+
+"Admin Quiz Results" (Quiz%20Results%20Admin.png)
+
+Tasks Assignment
+
+"Tasks Assignment" (Tasks%20Assignment.png)
+
+AI Study Assistant
+
+"AI Study Assistant" (AI%20Study%20Assistant.png)
+
+My Subjects
+
+"My Subjects" (My%20Subjects.png)
+
+Student Study Notes
+
+"Student Study Notes" (Study%20Notes.png)
+
+My Tasks
+
+"My Tasks" (My%20Tasks%20.png)
+
+Attend Quiz
+
+"Attend Quiz" (Attend%20Quiz.png)
+
+My Quiz Results
+
+"My Quiz Results" (My%20Quiz%20Results.png)
 
 
 
