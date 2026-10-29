@@ -69,7 +69,7 @@ Choose Your Login
 
 Admin Login
 
-"Admin Login" (Admin%20Login.png)
+![Admin Login](Admin%20Login.png)
 
 Student Login
 
