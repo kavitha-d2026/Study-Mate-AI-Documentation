@@ -118,7 +118,6 @@ Attend Quiz
 
 My Quiz Results
 
-"My Quiz Results" (My%20Quiz%20Results.png)
-
+![My Quiz Results](My%20Quiz%20Results.png)
 
 
