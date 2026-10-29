@@ -93,8 +93,7 @@ Admin Study Notes
 ![Admin Study Notes](Study%20Notes%20Admin.png)
 
 Admin Quiz Results
-
-"Admin Quiz Results" (Quiz%20Results%20Admin.png)
+![Admin Quiz Results](Quiz%20Results%20Admin.png)
 
 Tasks Assignment
 
