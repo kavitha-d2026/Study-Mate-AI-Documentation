@@ -83,7 +83,7 @@ Student Dashboard
 
 Student Management
 
-"Student Management" (Student%20Management.png)
+![Student Management](Student%20Management.png)
 
 Subject Management
 
