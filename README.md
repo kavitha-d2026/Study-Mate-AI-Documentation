@@ -73,7 +73,7 @@ Admin Login
 
 Student Login
 
-"Student Login" (Student%20Login.png)
+![Student Login](Student%20Login.png)
 
 Admin Dashboard
 
