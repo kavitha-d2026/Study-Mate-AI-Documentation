@@ -61,7 +61,7 @@ Project Screenshots
 
 Splash Screen
 
-"Splash Screen" (StudyMateAI_Screenshots%20.png)
+![Splash Screen](StudyMateAI_Screenshots.png)
 
 Choose Your Login
 
