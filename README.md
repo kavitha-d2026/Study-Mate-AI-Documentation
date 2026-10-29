@@ -79,8 +79,7 @@ Admin Dashboard
 
 ![Admin Dashboard](Admin%20Dashboard.png)
 Student Dashboard
-
-"Student Dashboard" (Student%20Dashboard.png)
+![Student Dashboard](Student%20Dashboard.png)
 
 Student Management
 
