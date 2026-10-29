@@ -90,7 +90,7 @@ Subject Management
 
 Admin Study Notes
 
-"Admin Study Notes" (Study%20Notes%20Admin.png)
+![Admin Study Notes](Study%20Notes%20Admin.png)
 
 Admin Quiz Results
 
