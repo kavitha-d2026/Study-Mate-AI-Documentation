@@ -107,8 +107,7 @@ My Subjects
 ![My Subjects](My%20Subjects.png)
 
 Student Study Notes
-
-"Student Study Notes" (Study%20Notes.png)
+![Study Notes](Study%20Notes.png)
 
 My Tasks
 
