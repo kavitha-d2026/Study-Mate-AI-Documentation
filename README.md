@@ -65,8 +65,7 @@ Splash Screen
 
 
 Choose Your Login
-
-"Choose Your Login" (Choose%20Your%20Login.png)
+![Choose Your Login](Choose%20Your%20Login.png)
 
 Admin Login
 
