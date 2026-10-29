@@ -104,7 +104,7 @@ AI Study Assistant
 
 My Subjects
 
-"My Subjects" (My%20Subjects.png)
+![My Subjects](My%20Subjects.png)
 
 Student Study Notes
 
